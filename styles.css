@@ -6,3 +6,16 @@ body {
 h1 {
 	color: #7D9726;
 }
+
+a {
+	color: #36A166;
+}
+a:visited {
+	color: #36A166;
+}
+
+.emote {
+	height: 1.2em;
+    width: auto;
+    vertical-align: -0.25em;
+}
